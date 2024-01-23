@@ -1,0 +1,130 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;      
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    color: white;
+    
+    
+    
+    
+}
+
+.opacita{
+    background-color: black;
+    opacity: 0.4;
+    width: 1100px; 
+    height: 1100px;
+    margin-left: 30%;
+    margin-right: 50%;   
+    position: absolute;
+    border-radius: 5%;
+    
+    
+    
+    
+ 
+
+    
+}
+
+header{       
+    color: greenyellow;
+}
+
+#logo{
+    width: 300px;
+    padding-top: 5%;
+}
+
+#logo2{
+    font-size: 50px;
+}
+
+nav{
+    padding-top: 10px;    
+    background-color: greenyellow;
+    height: 20px;
+    width: 990px;
+    margin-left: 32%;
+    padding-bottom: 0.5%;
+    
+    
+}
+
+
+.inizio{
+display: inline-block;
+margin-right: 800px;
+font-size: 30px;
+
+ù
+
+
+
+
+}
+
+.inizio2{
+    margin-right: 770px;
+    font-size: 20px;
+    
+    
+}
+.inizio3{
+    margin-right: 980px;
+    font-size: 20px;
+    
+
+}
+
+.sopracarica{
+    margin-right: 200px;
+    
+    
+}
+
+.barradicarica1{
+    height: 40px;
+    background-color: yellow;
+    border-style: initial;
+    margin-left: 880px;
+    margin-right: 1300px;
+    border-radius: 10px;
+    
+}
+
+.barradicarica2{
+    height: 40px;
+    background-color: green;
+    border-style: initial;
+    margin-left: 880px;
+    margin-right: 1000px;
+    border-radius: 10px;
+    
+}
+
+.barradicarica3{
+    height: 40px;
+    background-color: red;
+    border-style: initial;
+    margin-left: 880px;
+    margin-right: 1400px;
+    border-radius: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
